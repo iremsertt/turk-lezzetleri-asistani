@@ -23,10 +23,23 @@ Model altyapısı `Phi-3-mini-4k-instruct` (üretim) ve `MiniLM` (embedding) kul
 - **LLM:** Phi-3-mini (Microsoft)
 - **Embedding:** MiniLM
 - **Arayüz:** Gradio
+  
+---
+
+## 📂 Proje Yapısı
+
+turk-lezzetleri-asistani/
+- ├── README.md
+- ├── requirements.txt
+- ├── app.py
+- ├── rag_utils.py
+- ├── config.py
+- └── Yemek_Asistani_Chatbot.ipynb
 
 ---
 ## ⚙️ Kurulum
 ```bash
+pip install -q streamlit datasets faiss-cpu sentence-transformers transformers accelerate pyngrok
 pip install -r requirements.txt
 python app.py
 
