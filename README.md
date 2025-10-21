@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iremsert/turk-lezzetleri-asistani/blob/main/colab_setup.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iremsertt/turk-lezzetleri-asistani/blob/main/Yemek_Asistanı_Chatbot.ipynb)
+
 
 # 🍲 Türk Lezzetleri Asistanı – RAG Tabanlı Yemek Tarifi Chatbot
 
